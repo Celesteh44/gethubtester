@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jessica! <br/><a <a href="www.linkedin.com/in/jessicaherreraanderson/">Cybersecurity Student</a>
+<h1>Hi, I'm Jessica!  href="www.linkedin.com/in/jessicaherreraanderson/">Cybersecurity Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
